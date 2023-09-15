@@ -6,7 +6,7 @@ const Course = ({ course, handleClickSelect }) => {
   return (
     <div className="p-4 rounded-lg shadow-lg border-2 w-3/4 md:w-auto mx-auto">
       <img className="w-full h-48 mx-auto rounded-lg" src={image} alt="" />
-      <h2 className="text-2xl font-semibold mt-5">{title}</h2>
+      <h2 className="text-2xl font-semibold mt-3">{title}</h2>
       <div className="my-2">
         <p className="text-sm">{description}</p>
       </div>
