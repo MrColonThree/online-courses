@@ -10,15 +10,15 @@
   {
     "id": 2,
     "title": "Data Science Fundamentals",
-    "image": "https://images.unsplash.com/photo-1542744173-05336fcc7ad4",
+    "image": "https://images.unsplash.com/photo-1518186233392-c232efbf2373",
     "description": "Explore the world of data science, including data analysis, machine learning, and data visualization techniques.",
-    "credit_hours": 8,
+    "credit_hours": 10,
     "price": 79.99
   },
   {
     "id": 3,
     "title": "Digital Marketing Mastery",
-    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
+    "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43",
     "description": "Master comprehensive digital marketing strategies, including SEO, social media marketing, email marketing, and content creation.",
     "credit_hours": 5,
     "price": 64.99
@@ -26,9 +26,9 @@
   {
     "id": 4,
     "title": "Graphic Design Essentials",
-    "image": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5",
+    "image": "https://images.unsplash.com/photo-1626785774625-ddcddc3445e9",
     "description": "Learn the essentials of graphic design, including design principles, Adobe Photoshop, and Adobe Illustrator.",
-    "credit_hours": 4,
+    "credit_hours": 8,
     "price": 59.99
   },
   {
@@ -60,7 +60,7 @@
     "title": "Fundamentals of Business Finance",
     "image": "https://images.unsplash.com/photo-1603202662747-00e33e7d1468",
     "description": "Gain a solid understanding of business finance, financial statements, and investment strategies.",
-    "credit_hours": 2,
+    "credit_hours": 4,
     "price": 59.99
   },
   {
