@@ -4,9 +4,9 @@ import { FiBookOpen } from "react-icons/fi";
 const Course = ({ course, handleClickSelect }) => {
   const { title, image, description, price, credit_hours } = course;
   return (
-    <div className="p-4 rounded-lg shadow-lg border-2 w-3/4 md:w-auto mx-auto mb-3">
+    <div className="p-4 rounded-lg shadow-lg border-2  md:w-auto mx-auto mb-3">
       <img className="w-full h-44 mx-auto rounded-lg" src={image} alt="" />
-      <h2 className="text-2xl font-semibold mt-3">{title}</h2>
+      <h2 className="text-xl font-semibold mt-3">{title}</h2>
       <div className="my-2">
         <p className="text-sm">{description}</p>
       </div>
